@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body {
+	background-image: url(images/bakcground.jpg);
+	margin-right: auto;
+	margin-left: auto;
+}
+#__01 {
+	margin-right: auto;
+	margin-left: auto;
+}
